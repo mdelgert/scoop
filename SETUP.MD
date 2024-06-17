@@ -1,0 +1,1 @@
+scoop bucket add mdelgert https://github.com/mdelgert/scoop
